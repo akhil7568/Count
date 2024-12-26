@@ -1,0 +1,23 @@
+
+#a{
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+}
+#d{
+  margin-left: 710px;
+  padding: 5px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
+#p{
+    margin-left: 720px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+
+}
